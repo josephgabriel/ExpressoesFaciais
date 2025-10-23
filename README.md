@@ -1,4 +1,4 @@
-# 😃 Reconhecimento de Expressões Faciais com Emojis
+# 😃 Reconhecimento de Expressões Faciais com Imagens
 
 Este projeto utiliza **Visão Computacional** com **OpenCV** e **MediaPipe** para detectar expressões faciais em tempo real e exibir emojis correspondentes às emoções identificadas (feliz, triste ou neutro).
 
@@ -8,14 +8,14 @@ Este projeto utiliza **Visão Computacional** com **OpenCV** e **MediaPipe** par
 
 - Captura facial em tempo real usando webcam 🎥  
 - Reconhecimento de expressões com MediaPipe Face Mesh  
-- Exibição dinâmica de emojis conforme a expressão detectada 😃😐😢  
+- Exibição dinâmica de imagens conforme a expressão detectada 😃😐😢  
 - Interface simples e intuitiva com OpenCV  
 
 ---
 
 ## 🖼️ Expressões Detectadas
 
-| Emoção | Descrição | Emoji |
+| Emoção | Descrição | Reação |
 |:-------|:-----------|:------|
 | **Feliz** | Sorriso detectado | 😃 |
 | **Neutra** | Sem variação facial | 😐 |
