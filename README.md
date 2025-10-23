@@ -35,9 +35,11 @@ Este projeto utiliza **Visão Computacional** com **OpenCV** e **MediaPipe** par
 ## 🚀 Como Executar o Projeto
 
 1. **Clone este repositório**
-   ```bash
-   git clone https://github.com/josephgabriel/ExpressoesFaciais.git
-   cd ExpressoesFaciais
+```bash
+git clone https://github.com/josephgabriel/ExpressoesFaciais.git
+cd ExpressoesFaciais
+```
+
 2. Crie e ative um ambiente virtual (opcional, mas recomendado)
 ```bash
 python3 -m venv venv
